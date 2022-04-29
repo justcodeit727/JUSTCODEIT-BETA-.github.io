@@ -1,0 +1,37 @@
+
+code {
+    font-family: Consolas,"courier new";
+    color: rgb(0, 0, 0);
+    background-color: #f1f1f1;
+    padding: 2px;
+    font-size: 105%;
+  }
+  h1{
+     font-family:Sans-serif ;
+  }
+  p{
+     font-family:Sans-serif ;
+  }
+  h2{
+        font-family:Sans-serif ;
+  }
+  li{
+        font-family:Sans-serif ;
+  }
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+div{
+  background-color: #0099ff;
+  Width:auto;
+  border:1px solid black;
+  margin:0 auto;
+  text-align: center;
+  
+}
